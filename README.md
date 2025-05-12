@@ -16,4 +16,5 @@ Back-end: Python
 
 ## Team Members
 1) Somesh Marathe En21cs301756
-2) Sunidhi Shinde En21cs301774 
+2) Sunidhi Shinde En21cs301774
+3) Suhani Soni En21cs301756
